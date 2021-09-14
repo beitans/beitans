@@ -1,6 +1,6 @@
-Hi' I'm Florian cool that you found me ;)
+Hi' I'm Florian; cool that you found me ;)
 I am interested in technology and extreme sports and
-currently learning to focus my attention onto only a few instead of 100 different projects.
+currently learning to focus my attention onto only a few instead of 100 different once.
 Currently it is data science and more specific text analysis.
 I'm looking forward to collaborate on that!
 You can reach me via:
